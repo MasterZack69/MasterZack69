@@ -7,7 +7,7 @@
 
 - 📫 How to reach me ?? Come to hell 
 
-- ⚡ Fun fact :- **My existence is a Joke 🙂.** Have been coding since an year but still am a nub
+- ⚡ Fun fact :- **My existence is a Joke 🙂.** Have been coding since an year but am still a nub
 
 <h3 align="left">Social Media (I am inactive btw):</h3>
 <p align="left">
