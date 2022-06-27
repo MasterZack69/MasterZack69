@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masterzack69&label=Profile%20views&color=0e75b6&style=flat" alt="masterzack69" /> </p>
 
+<h3> Know Something about me </h3>
+A 15y/o kiddo, Javascript was my first programming and C++ is currently my Primary language and Python being my secondary language (it was my primary language before i learned C++)
+
 - 🔭 I’m currently working on my project [Muth](https://github.com/MasterZack69/Muth) based on C++ 
 
 - 📫 How to reach me ?? Come to hell 
